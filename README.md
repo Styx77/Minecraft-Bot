@@ -5,9 +5,9 @@ That's how to Download the Bot.
 
 ### Installation
 
-1. Clone the repo or download it by releases
+1. Download the file
    ```sh
-   git clone https://github.com/Styx77/Minecraft-Bot.git
+   https://github.com/Styx77/Minecraft-Bot/releases
    ```
 2. Extract the .zip file
 
