@@ -14,3 +14,7 @@ That's how to Download the Bot.
 ### Usage
 
 Go in the mc-bot folder and run the .exe file
+
+### Credits
+
+See `CREDITS.md` for credits.
