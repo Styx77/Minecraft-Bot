@@ -1,5 +1,4 @@
 # Minecraft-Bot
-Beta Version 1.0
 
 ## Getting Started
 That's how to Download the Bot.
